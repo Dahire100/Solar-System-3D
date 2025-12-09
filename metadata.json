@@ -1,0 +1,7 @@
+{
+  "name": " Solar Hand Control",
+  "description": "An interactive 3D solar system where you control the camera and speed using hand gestures detected by your webcam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
